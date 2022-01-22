@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nilesh9910/Munafa-form/static/css/main.a94dbe5a.css",
-    "main.js": "/nilesh9910/Munafa-form/static/js/main.764c7a36.js",
-    "static/media/favicon.png": "/nilesh9910/Munafa-form/static/media/favicon.38096ed072c0aefc5b1e.png",
-    "index.html": "/nilesh9910/Munafa-form/index.html",
-    "main.a94dbe5a.css.map": "/nilesh9910/Munafa-form/static/css/main.a94dbe5a.css.map",
-    "main.764c7a36.js.map": "/nilesh9910/Munafa-form/static/js/main.764c7a36.js.map"
+    "main.css": "/Munafa-form/static/css/main.a94dbe5a.css",
+    "main.js": "/Munafa-form/static/js/main.3fb2e1f4.js",
+    "static/media/favicon.png": "/Munafa-form/static/media/favicon.38096ed072c0aefc5b1e.png",
+    "index.html": "/Munafa-form/index.html",
+    "main.a94dbe5a.css.map": "/Munafa-form/static/css/main.a94dbe5a.css.map",
+    "main.3fb2e1f4.js.map": "/Munafa-form/static/js/main.3fb2e1f4.js.map"
   },
   "entrypoints": [
     "static/css/main.a94dbe5a.css",
-    "static/js/main.764c7a36.js"
+    "static/js/main.3fb2e1f4.js"
   ]
 }
